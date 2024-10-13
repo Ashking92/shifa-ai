@@ -22,7 +22,7 @@ To run Shifa AI locally on your machine, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/shifa-ai.git
+   git clone https://github.com/Ashking92/shifa-ai.git
    ```
 
 2. Navigate to the project directory:
